@@ -1,3 +1,3 @@
 # code-pen
 
-## url de acesso: [a link](https://goo.gl/WAihtx);
+## url de acesso: [CODEPEN](https://goo.gl/WAihtx);
