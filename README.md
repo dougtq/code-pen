@@ -1,3 +1,5 @@
-# code-pen
+# Codepen
 
-## url de acesso: [CODEPEN](https://goo.gl/WAihtx);
+## [CODEPEN](https://goo.gl/WAihtx)
+
+Exemplo de como criar seu próprio Codepen
